@@ -9,10 +9,10 @@ function App() {
   return (
     <div>
       {/* 2.2 */}
-      <CounterUsingHooksUseState />
+      {/* <CounterUsingHooksUseState /> */}
 
       {/* 2.3 */}
-      {/* <ObjStateEx /> */}
+      <ObjStateEx />
 
       {/* 2.4 */}
       {/* <UsingUseEffect /> */}

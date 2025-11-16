@@ -33,8 +33,7 @@ function ObjStateEx() {
       <div className='car-details'>
         <h2 className='car-brand'>My {car.brand}</h2>
         <h3 className='car-description'>
-          It is a <span className={`car-color ${car.color}`}>{car.color}</span>
-          {car.model} from {car.year}.
+          It is a <span className={`car-color  ${car.color}`}> {car.color} </span> {car.model} from {car.year}.
         </h3>
         <div className='car-image-wrapper'>
           <img
