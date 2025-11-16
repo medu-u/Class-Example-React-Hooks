@@ -15,8 +15,8 @@ function App() {
       {/* <ObjStateEx /> */}
 
       {/* 2.4 */}
-      <UsingUseEffect />
-      {/* <LogInLogOut /> */}
+      {/* <UsingUseEffect /> */}
+      <LogInLogOut />
     </div>
   );
 }
