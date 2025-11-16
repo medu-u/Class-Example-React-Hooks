@@ -12,10 +12,10 @@ function App() {
       {/* <CounterUsingHooksUseState /> */}
 
       {/* 2.3 */}
-      <ObjStateEx />
+      {/* <ObjStateEx /> */}
 
       {/* 2.4 */}
-      {/* <UsingUseEffect /> */}
+      <UsingUseEffect />
       {/* <LogInLogOut /> */}
     </div>
   );
