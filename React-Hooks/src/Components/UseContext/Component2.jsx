@@ -5,7 +5,7 @@ import UsingUseContext from './UsingUseContext';
 function Component2() {
   return (
     <div className='component-wrapper'>
-      {/* <Component3 /> */}
+      <Component3 />
       <UsingUseContext />
     </div>
   );

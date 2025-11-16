@@ -9,7 +9,7 @@ function UsingUseEffect() {
   useEffect(() => {
     console.log(input);
     document.title = `Count: ${count}`;
-  }, [input]);
+  }, [input, count]);
 
   return (
     <div className="effect-container">
